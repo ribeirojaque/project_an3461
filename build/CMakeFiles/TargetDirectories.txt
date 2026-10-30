@@ -1,3 +1,0 @@
-/home/jaque/treino_hexagon/build/CMakeFiles/tilt_app.dir
-/home/jaque/treino_hexagon/build/CMakeFiles/edit_cache.dir
-/home/jaque/treino_hexagon/build/CMakeFiles/rebuild_cache.dir
